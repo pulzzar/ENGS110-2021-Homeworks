@@ -9,9 +9,10 @@ fib_list = []
 num = int(input('INsert Your Age Here '))
 
 for a in Fib():
-    fib_list_append(a)
+    fib_list.append(a)
     if a > num - 8:
         Sum = sum(fib_list)
         break
 
-print(SUm)
+print(Sum)
+print(Arti)

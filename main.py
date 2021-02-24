@@ -15,4 +15,3 @@ for a in Fib():
         break
 
 print(Sum)
-print(Arti)
